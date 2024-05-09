@@ -1,0 +1,1 @@
+factures='[{"numFact" : "0","client":"BijouxShop","dateFacturation":"10/02/2021","prestation":"Création de maquettes", "coutHT":"500"},{"numFact" : "1","client":"BijouxShop","dateFacturation":"13/03/2021","prestation":"Développment Web", "coutHT":"2500"},{"numFact" : "2","client":"BijouxShop","dateFacturation":"23/03/2021","prestation":"Hébergement Web", "coutHT":"350"}]';
